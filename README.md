@@ -1,5 +1,8 @@
 # SendingEmailUsingAlmofireIn-swift-4
 
+Reference url https://stackoverflow.com/questions/28250101/is-there-a-library-skpsmtpmessage-for-swift
+
+
 
 //How to send POST request with “x-www-form-urlencoded” content-type in ios swift4
 //post application/x-www-form-urlencoded Alamofire
